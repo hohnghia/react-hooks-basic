@@ -11,7 +11,7 @@ function ColorBox(props) {
             className='color-box'
             style={{ backgroundColor: color }}
         >
-            COLOR BOX
+            Màu mè quá
         </div>
     );
 }
